@@ -1,0 +1,165 @@
+body{
+  margin:0;
+  text-align: center;
+  font-size:18px;
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  font-size: 2.5rem;
+  display: inline-block;
+  width:35%;
+}
+
+h4{
+  font-size: 1.08rem;
+
+}
+
+p{
+  line-height: 1.5;
+}
+.intro{
+  width:40%;
+  font-size: 1.08rem;
+
+}
+.left-intro{
+  margin:100px auto 100px auto;
+  width:100%;
+  text-align: left;
+
+}
+.picture{
+  width:550px;
+  margin-right:70px;
+  float: right;
+}
+.top-container{
+  background-color: #E4F9F5;
+  text-align: left;
+  position: relative;
+  padding-top: 20px;
+  padding-left:30px;
+}
+.GT{
+  margin:10px 10px 10px 10px;
+  border:solid #f4f4f4 10px;
+  border-radius: 10px;
+  padding: 100px;
+}
+.grow-together{
+  width:35%;
+  height:100%;
+  float:right;
+}
+.gt-row{
+  text-align: left;
+  margin-left: 20px;
+  width:65%;
+  }
+.fc-row{
+  text-align: left;
+  width:100%;
+}
+.FC{
+  margin:10px 10px 10px 10px;
+  border:solid #f4f4f4 10px;
+  border-radius: 10px;
+  padding: 100px;
+}
+.fc-image{
+  width:30%;
+  height:100%;
+  float:left;
+}
+.YU{
+  border-radius:10px;
+  border:solid #f4f4f4 10px;
+  padding: 100px;
+}
+.yu-row{
+  text-align: left;
+  width:60%
+}
+.your-users-image{
+  width:40%;
+  float:right;
+}
+.ready{
+margin: 20px 350px 0 350px;;
+width:40%;
+padding:0px;
+border:solid #f4f4f4 10px;
+border-radius: 10px;
+position:relative;
+top:30px;
+background-color: white;
+
+
+}
+.bottom-container{
+  background-color: #6b778d;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+a{
+  color:white;
+}
+.footer{
+  margin-left: 400px;
+
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: black;
+  font-size: 20px;
+  background: white;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-left: 800px;
+  margin-bottom: 10px;
+}
+
+
+.btn:hover {
+  background: blue;
+  text-decoration: none;
+}
+.butn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  background: magenta;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  bottom:80px;
+
+}
+
+.butn:hover {
+  background: blue;
+  text-decoration: none;
+}
+.buttn{
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  background: magenta;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.buttn:hover {
+  background: blue;
+  text-decoration: none;
+}
